@@ -1,0 +1,54 @@
+body {
+  background-color: silver;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.jack {
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+.info p {
+  color: #708090;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.info {
+  border-radius: 20px;
+  padding: 15px;
+  margin: 15px;
+}
+
+@media (max-width: 700px) {
+  .zag bg-yellow {
+    text-align: center;
+    display: block;
+  }
+}
+
+.container {
+  border-radius: 20px;
+  padding: 15px;
+  margin: 15px;
+}
+
+.bg-yellow {
+  background: #fff9dc;
+}
+
+.bg-green {
+  background: #e5ffe7;
+}
+
+.bg-red {
+  background: #ffe5e5;
+}
+
+.zag {
+  border-radius: 20px;
+  padding: 15px;
+  margin: 10px;
+}
+.contact h2 {
+  text-align: center;
+}
